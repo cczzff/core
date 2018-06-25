@@ -9,7 +9,7 @@ message Account {
     int64 id = 1;
     string username = 2;
     string password = 3;
-    google.protobuf.Timestamp created_at = 5 [(gogoproto.stdtime) = true];
+    google.protobuf.Timestamp created_at = 4 [(gogoproto.stdtime) = true];
 }
 
 
