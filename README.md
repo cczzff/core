@@ -1,1 +1,1 @@
-golang_practice的protobuf文件生成在这边
+golang_practice的protobuf文件生成
